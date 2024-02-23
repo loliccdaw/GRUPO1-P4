@@ -13,6 +13,7 @@ public class Main {
 		
 		s2.comer(s1);
 		s2.mostrarInfo();
+		s1.mostrarInfo();
 		
 		Slither s3 = new Slither("ansu");
 		s3.comer(Alimentos.VERDE);
