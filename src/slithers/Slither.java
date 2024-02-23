@@ -45,9 +45,9 @@ public class Slither {
 		return this.nombre;
 	}
 
-	public void setUltimoComido(String ultimoComido) {
+	/*public void setUltimoComido(String ultimoComido) {
 		this.ultimoComido = ultimoComido;
-	}
+	}*/
 
 	// metodos
 	public void comer(Alimentos alimento) {
